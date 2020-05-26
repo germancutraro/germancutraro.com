@@ -4,7 +4,7 @@ import { Container, Title, CVButton, CVButtonText } from './styles';
 const Content = () => (
   <Container>
     <Title>germancutraro</Title>
-    <CVButton onClick={() => window.open('/cv.jpg', '_blank')}>
+    <CVButton onClick={() => window.open('/cv-en.jpg', '_blank')}>
       <CVButtonText>OPEN CV</CVButtonText>
     </CVButton>
   </Container>
