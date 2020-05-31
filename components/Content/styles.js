@@ -11,7 +11,7 @@ export const Container = styled.div`
   color: var(--textColor);
 
   @media screen and (max-width: 500px) {
-    font-size: 1.9rem;
+    font-size: 1.6rem;
   }
 `;
 
