@@ -5,7 +5,7 @@ export const GlobalStyles = createGlobalStyle`
 ${normalize}
 
  body {
-   --bgColor: #FAF5F2;
+   --bgColor: #EAEAEA;
    --textColor: #22211D;
    --iconColor: #000;
  }
