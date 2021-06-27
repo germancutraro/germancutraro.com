@@ -6,7 +6,7 @@ export const Container = styled.div`
   justify-content: center;
   flex-direction: column;
   flex: 1;
-  font-size: 2.2rem;
+  font-size: 2.3rem;
   font-family: 'Oxygen', sans-serif;
   color: var(--textColor);
 
